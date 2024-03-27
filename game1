@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spectrum Saga</title>
+<style>
+  body {
+    background-color: purple;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  h1 {
+    font-size: 80px;
+    color: red;
+  }
+
+  #startButton {
+    background-color: #007bff;
+    color: black;
+    border: none;
+    padding: 30px 40px;
+    font-size: 38px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  #startButton:hover {
+    background-color: #0056b3;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Spectrum Saga</h1>
+  <a href="geme2.html">
+  <button id="startButton">Start</button>
+</a>
+</div>
+
+</body>
+</html>
